@@ -1,0 +1,4 @@
+tensorflow==2.4.1
+numpy==1.19.5
+Pillow== 8.0.1
+PyQt5==5.15.4

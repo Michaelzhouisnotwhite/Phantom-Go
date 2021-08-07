@@ -1,0 +1,13 @@
+
+__pycache__
+*.zip
+.idea
+sgf
+.vscode
+save_pic_from_clipboard.py
+GoBang/gobangGUI.py
+GoBang/img/chessboard.jpg
+*.code-workspace
+Phantom_Go/replay01.ipynb
+Phantom_Go/ui/SettingGui.py
+test.ipynb
