@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="img">
-    <file>img/Goban_9x9_vide.png</file>
-    <file>img/Goban_9x9_new.png</file>
-  </qresource>
-</RCC>
